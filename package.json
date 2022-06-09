@@ -42,9 +42,9 @@
   "dependencies": {
     "@tweenjs/tween.js": "^17.4.0",
     "funnel-graph-js": "^1.4.2",
-    "node-sass": "^6.0.1",
+    "sass": "^1.51.0",
     "polymorph-js": "^1.0.2",
-    "sass-loader": "^10.2.0"
+    "sass-loader": "^12.6.0"
   },
   "devDependencies": {
     "cross-env": "^7.0.3",
